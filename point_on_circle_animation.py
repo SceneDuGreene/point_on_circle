@@ -2,7 +2,8 @@
 """
 Created on Mon Mar 28 10:58:09 2022
 
-@author: mike3
+@author: SceneDuGreene
+
 """
 import numpy as np
 import matplotlib.pyplot as plt 
